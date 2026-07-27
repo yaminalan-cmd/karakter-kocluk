@@ -35,8 +35,8 @@ export default function About() {
 
           <div className="relative overflow-hidden rounded-[32px] border border-white/10 bg-white/5 p-4 backdrop-blur">
             <Image
-              src="/images/HERO.png"
-              alt="Bünyamin Alan"
+              src="/images/bilgilendirme.png"
+              alt="Bünyamin hoca"
               width={900}
               height={1000}
               className="rounded-[24px] object-cover transition duration-500 hover:scale-105"
