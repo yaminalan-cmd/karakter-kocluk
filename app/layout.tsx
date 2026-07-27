@@ -1,4 +1,5 @@
 import "./globals.css";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 export const metadata = {
   title: "Karakter Koçluk | Bünyamin Hoca | LGS, YKS, Türkçe ve Edebiyat Özel Ders",
@@ -40,6 +41,8 @@ export default function RootLayout({
   return (
     <html lang="tr">
       <body>{children}</body>
+
+      <GoogleAnalytics gaId="G-67D6JF483R" />
     </html>
   );
 }
