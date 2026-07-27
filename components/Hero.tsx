@@ -28,7 +28,7 @@ export default function Hero() {
             </span>
 
             <h2 className="mt-8 text-xl font-medium text-slate-300">
-              Bünyamin Alan
+              BünYamin Hoca
             </h2>
 
             <h1 className="mt-3 text-5xl font-black leading-none sm:text-6xl lg:text-7xl">
@@ -38,10 +38,10 @@ export default function Hero() {
             </h1>
 
             <p className="mt-8 max-w-xl text-lg leading-8 text-slate-300">
-              19 yıllık eğitim deneyimiyle; ilkokul, ortaokul ve lise
+              18 yıllık eğitim deneyimiyle; ilkokul, ortaokul ve lise
               öğrencilerine yönelik Türkçe, Türk Dili ve Edebiyatı,
-              LGS-YKS hazırlık, paragraf çalışmaları, hızlı okuma ve
-              öğrenci koçluğu hizmetleri sunuyorum.
+              LGS-YKS hazırlık, Paragraf Çalışmaları, Hızlı Okuma ve
+              Öğrenci Koçluğu ile öğrencimize destek çalışmaları sunuyoruz.
             </p>
 
             <div className="mt-10 flex flex-wrap gap-4">
